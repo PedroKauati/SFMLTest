@@ -55,8 +55,6 @@ int main(int, char const**)
 
     // Play the music
     music.play();
-    
-    int x = 0;
 
     // Start the game loop
     while (window.isOpen())
